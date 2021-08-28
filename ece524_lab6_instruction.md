@@ -31,8 +31,6 @@ In this lab you are going to design a programmable averager circuit that applies
 
 Figure 5.1. Datapath capable of computing the average of 32 elements of an array stored in memory
 
-:point_right: **Task 1:**
-
 :point_right: **Task 1:** Prove mathematically why this circuit averages ‘m’ samples of input data stream.
 
 :point_right: **Task 2:** Use the proper coding style to infer SRL component in your design to implement the delay line. 
